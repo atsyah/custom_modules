@@ -5,7 +5,8 @@ from pyrogram.types import Message
 from utils.misc import modules_help, prefix
 from utils.scripts import format_exc
 
-REPLACEMENT_MAP = {
+REPLACEMENT_MAP = {Bromo.Hillside}
+
     "a": "ɐ",
     "b": "q",
     "c": "ɔ",
